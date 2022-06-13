@@ -25,4 +25,4 @@ I also used the terminal for other testing purposes to ensure proper output. For
 
 For automated unit tests I also employ JUnit tests. These similarly tackle the system tests and a few others. Most of these were written once I already felt the project was in a strong state. That said, making these tests was useful as it challenged me to intake console data, modify it and turn it into a string for comparison which I’m embarrassed to admit I didn’t know how to do before.  
 
-For my checkstyle I employed Google’s checks. 
+For my checkstyle I employed Google’s basic checks. I got the 32 checks installed later and with more time would have gone through with a fine toothed comb and resolved all of them. 
